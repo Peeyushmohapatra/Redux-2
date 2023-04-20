@@ -1,0 +1,22 @@
+.product{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 25px;
+    justify-content: center;
+}
+
+.productContainer{
+    height: 400px;
+    width: 250px;
+    margin-top: 20px;
+    cursor: pointer;
+    box-shadow: 0 0 10px black;
+    padding: 10px 20px;
+}
+
+.productContainer img{
+    height: 60%;
+    width: 100%;
+    padding: 10px 20px;
+}

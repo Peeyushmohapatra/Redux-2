@@ -1,0 +1,30 @@
+.cart{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+    gap: 2rem;
+}
+
+.cartCard{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 25px;
+    justify-content: center;
+}
+
+.cartProduct{
+    height: 400px;
+    width: 300px;
+    box-shadow: 0 0 10px black;
+    padding: 10px 20px;
+}
+
+.cartProduct img{
+    height: 65%;
+    width: 100%;
+}
+

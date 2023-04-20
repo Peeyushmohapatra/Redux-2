@@ -1,0 +1,15 @@
+.navbar{
+    height: 10%;
+    width: 100%;
+    padding: 0 3rem;
+    background-color: black;
+    color: white;
+    display: flex;
+    list-style-type: none;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.navbar li{
+    cursor: pointer;
+}
